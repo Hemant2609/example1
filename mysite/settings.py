@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-tml&59n2@%7a7n^tv#uw$tli-nq^7z@b0)(icp*#@)h^bhyy*e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','example26.herokuapp.com']
 
 
 # Application definition
